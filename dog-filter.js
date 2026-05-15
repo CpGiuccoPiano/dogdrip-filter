@@ -9,8 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/[CpGiuccoPiano]/[dogdrip-filter]/main/dogdrip_user_blocker.user.js
-// @downloadURL  https://raw.githubusercontent.com/[[CpGiuccoPiano]/[[dogdrip-filter]/main/dogdrip_user_blocker.user.js
+// @updateURL    https://raw.githubusercontent.com/CpGiuccoPiano/dogdrip-filter/main/dogdrip_user_blocker.user.js
+// @downloadURL  https://raw.githubusercontent.com/CpGiuccoPiano/dogdrip-filter/main/dogdrip_user_blocker.user.js
 // ==/UserScript==
 
 (function () {
